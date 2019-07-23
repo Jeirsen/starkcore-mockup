@@ -1,0 +1,8 @@
+.block-icons {
+  display: block !important;
+}
+
+.active-item {
+  background-color: #193947 !important;
+  color: #fff !important;
+}
